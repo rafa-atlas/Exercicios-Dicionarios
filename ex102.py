@@ -1,4 +1,3 @@
-
 # Apresentação
 print("Programa para separar pessoas por idade.")
 print("")
